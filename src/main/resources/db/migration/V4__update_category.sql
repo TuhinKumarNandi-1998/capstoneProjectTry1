@@ -1,0 +1,1 @@
+UPDATE productcategorydb.category SET description = 'best smartphone ever' WHERE id = 1
